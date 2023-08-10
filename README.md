@@ -90,7 +90,9 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 1. Given the provided data, what are three conclusions we can draw about crowdfunding campaigns?
 
    i. Theater is the most prevalent parent category of both successful and failed campaigns.
+   
    ii. Music is the second parent category with failed campaigns and third with the most success.
+   
    iii. The most successful campaigns tend to occur around June and July.
    
 3. What are some limitations of this dataset?
