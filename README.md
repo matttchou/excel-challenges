@@ -88,13 +88,22 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 
 ## Report 
 1. Given the provided data, what are three conclusions we can draw about crowdfunding campaigns?
-   i. Theater is the most prevalent category of successful campaigns.
-   ii. 
+
+   i. Theater is the most prevalent parent category of both successful and failed campaigns.
+   ii. Music is the second parent category with failed campaigns and third with the most success.
+   iii. The most successful campaigns tend to occur around June and July.
    
 3. What are some limitations of this dataset?
+
+   While there is a small description of each campaign, it does not fully describe the end goal of each campaign. It would be good to know what the campaigns desire to achieve. It would be difficult to compare campaigns that desire to achieve different fundraising goals becuase it affects the defintion of success.
    
+   Another limitation of this study is that there is no information on what the donors receive in exchange to donating to campaigns. This could provide insight on how donors decide which campaigns to support which will determine the campaign's success rate. 
    
-4. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
+5. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
+
+   i. Tables showing a comparsion between the most successful categories or subcategories and the most unsuccessful categories/sub-categories.
+   ii. Tables that exclude fundraising goal outliers
+   iii. Graphs and data tables that break each category or sub-categories that illustrate what makes each organization successful or not. Brekaing up the broad categories into more refined subcategories to analyze different funding goals, average donations, lengths of campaign timelines. 
    
 ## Bonus Statistical Analysis
 
