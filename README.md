@@ -104,7 +104,9 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 5. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
    i. Tables showing a comparsion between the most successful categories or subcategories and the most unsuccessful categories/sub-categories.
-   ii. Tables that exclude fundraising goal outliers
+   
+   ii. Tables that exclude fundraising goal outliers.
+   
    iii. Graphs and data tables that break each category or sub-categories that illustrate what makes each organization successful or not. Brekaing up the broad categories into more refined subcategories to analyze different funding goals, average donations, lengths of campaign timelines. 
    
 ## Bonus Statistical Analysis
